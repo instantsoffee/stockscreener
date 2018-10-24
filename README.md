@@ -1,0 +1,2 @@
+# stockscreener
+A stock screener that takes as input a list of stock tickers and calculates the realtive strength of each stock against its sector over the last year. It then screens each stock for technical criteria. It outputs a CSV file with the stocks selected by the first screener, marked for technical analysis by the second screener. This resulting CSV file is used as the basis for the next screening process, to over time achieve a continuous overview of stock performance.
